@@ -11,7 +11,7 @@ public class Miguel {
 		hobbies();
 		
 		System.out.println("Mis tres comidas favoritas son: ");
-		System.out.println("El chuleton, las hamburguesas y el cachopo");
+		System.out.println("Los espárragos, sardinillas y remolachas");
 	}
 	public static void hobbies() {
 		System.out.println("Mis tres hobbies favoritos son: ");
