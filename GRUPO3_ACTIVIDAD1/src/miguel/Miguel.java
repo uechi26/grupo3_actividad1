@@ -7,6 +7,10 @@ public class Miguel {
 
 		// me adelanté al primer punto y escribí mi nombre antes de tiempo
 		System.out.println("Hola, soy Miguel");
+<<<<<<< HEAD
+=======
+		
+>>>>>>> main
 		hobbies();
 	}
 	public static void hobbies() {
@@ -15,5 +19,9 @@ public class Miguel {
 		System.out.println("- Jugar al counter");
 		System.out.println("- Subir montañas con piedras en la espalda");
 		}
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
 
 }
