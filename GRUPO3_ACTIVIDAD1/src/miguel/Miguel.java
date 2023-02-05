@@ -16,6 +16,9 @@ public class Miguel {
 		System.out.println("- Jugar al counter");
 		System.out.println("- Subir montañas con piedras en la espalda");
 		}
-
-
+	
+	public static void comidas() {
+		System.out.println("Soy Pablo, y a Miguel le gusta el cachopo");
+	}
+	
 }
