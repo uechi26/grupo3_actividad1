@@ -9,6 +9,9 @@ public class Miguel {
 		System.out.println("Hola, soy Miguel");
 
 		hobbies();
+		
+		System.out.println("Mis tres comidas favoritas son: ");
+		System.out.println("El chuleton, las hamburguesas y el cachopo");
 	}
 	public static void hobbies() {
 		System.out.println("Mis tres hobbies favoritos son: ");
